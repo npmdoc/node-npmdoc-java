@@ -1,6 +1,6 @@
 # npmdoc-java
 
-#### api documentation for  [java (v0.8.0)](https://github.com/joeferner/node-java#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-java.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-java) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-java.svg)](https://travis-ci.org/npmdoc/node-npmdoc-java)
+#### basic api documentation for  [java (v0.8.0)](https://github.com/joeferner/node-java#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-java.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-java) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-java.svg)](https://travis-ci.org/npmdoc/node-npmdoc-java)
 
 #### Bridge API to connect with existing Java APIs.
 
@@ -74,7 +74,8 @@
         "postinstall": "node postInstall.js",
         "test": "node testRunner.js"
     },
-    "version": "0.8.0"
+    "version": "0.8.0",
+    "bin": {}
 }
 ```
 
